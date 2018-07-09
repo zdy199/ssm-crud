@@ -12,6 +12,7 @@ public class Msg {
 		Msg result = new Msg();
 		result.setCode(100);
 		result.setMsg("Success");
+		result.setMsg("Succ");
 		return result;
 	}
 	public static Msg fail(){
