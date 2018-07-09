@@ -18,7 +18,7 @@ public class Department {
 	public Integer getDeptId() {
         return deptId;
     }
-//aa
+
     public void setDeptId(Integer deptId) {
         this.deptId = deptId;
     }
